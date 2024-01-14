@@ -6,6 +6,8 @@ public class main {
 
         if (a == 3) {
             System.out.println("a is 3");
+        } else if (a == 4) {
+            System.out.println("a is not 4");
         } else {
             System.out.println("a is not 3");
         }
